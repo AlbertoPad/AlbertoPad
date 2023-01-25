@@ -23,4 +23,5 @@
         - Data collection and analysis. Analysing factory data obtained by SAP with Excel. Data collection during manufacturing.
 
 ### 📫 How to contact me: apadillanieto@gmail.com
-### ⚡ Fun fact: I'm a big lover of bonsai art, as well as, old Rock 'n Roll. I also like to go lindy hop dancing (swing music from the 20's, 50's...).
+### ⚡ Fun fact: 
+I'm a big lover of bonsai art, as well as, old Rock 'n Roll. I also like to go lindy hop dancing (swing music from the 20's, 50's...).
