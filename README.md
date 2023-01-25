@@ -21,7 +21,7 @@
 
 - ### 🔭 My professional interests are focused on: Data Scientist - Data Analyst - Predictive Models
 
-- ### ⚡ Fun fact **I'm a big lover of bonsai art, as well as, old Rock 'n Roll. I also like to go lindy hop dancing (music from the 20's, 50's...).**
+- ### ⚡ Fun fact **I'm a big lover of bonsai art, as well as, old Rock 'n Roll. I also like dance lindy hop  (music from the 20's, 50's...).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
