@@ -4,11 +4,11 @@
 
 ### 🌱 I am currently studying at Assembler Institute - Masters of Technology, specialising in Data Scientist
 
-### 🔭 My professional interests are focused on applying my knowledge and professional experience as:
-  Data Scientist
-  Data analyst.
-  Predictive modelling.
- And in general, any sector related to Big Data and Machine Learning.
+### 🔭 My professional interests are focused on:
+    -Data Scientist
+    -Data Analyst
+    -Predictive Models
+#### And in general, any sector related to Big Data and Machine Learning.
 
 ### 🤔 I have experience in:
  ####	Arcelormittal Basque Country Research Centre (2021).
