@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**AlbertoPad/AlbertoPad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A bit about me
 
-Here are some ideas to get you started:
+### 🌱 I am currently studying at Assembler Institute - Masters of Technology, specialising in Data Scientist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 My professional interests are focused on applying my knowledge and professional experience as:
+  Data Scientist
+  Data analyst.
+  Predictive modelling.
+ And in general, any sector related to Big Data and Machine Learning.
+
+### 🤔 I have experience in:
+ ####	Arcelormittal Basque Country Research Centre (2021).
+      Technician in Data Analysis and R&D
+        -Data analysis: from EAF with Excel and Minitab. Design of applications with VBA and use of macros for calculations and projects required.
+        -R&D projects related to digital vision.
+        -Research on EAF and materials used in steel fabrication.
+ ####	Hijos de Juan de Garay S.A. (2019-2020)  
+      Process Engineering and Continuous Improvement
+        - Process improvement: Analysis of SAP (Excel) data for improvement in machines and working methods, testing, analysis of results, documentation and final implementation 
+        - Surface quality control: Study, analysis...
+        - Data collection and analysis. Analysing factory data obtained by SAP with Excel. Data collection during manufacturing.
+
+### 📫 How to contact me: apadillanieto@gmail.com
+### ⚡ Fun fact: I'm a big lover of bonsai art, as well as, old Rock 'n Roll. I also like to go lindy hop dancing (swing music from the 20's, 50's...).
