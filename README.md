@@ -6,18 +6,18 @@
 - ### 🤔 I have experience in:
     ##### Arcelormittal Basque Country Research Centre (2021). 
     ##### Technician in Data Analysis and R&D 
-            -Data analysis: from EAF with Excel and Minitab. Design of applications with VBA and use of macros for 
-            calculations and projects required. 
-            -R&D projects related to digital vision. 
-            -Research on EAF and materials used in steel fabrication. 
+        -Data analysis: from EAF with Excel and Minitab. Design of applications with VBA and use of macros for 
+        calculations and projects required. 
+        -R&D projects related to digital vision. 
+        -Research on EAF and materials used in steel fabrication. 
 
     ##### Hijos de Juan de Garay S.A. (2019-2020).
     ##### Process Engineering and Continuous Improvement.
-            - Process improvement: Analysis of SAP (Excel) data for improvement in machines and working methods, testing, 
-            analysis of results, documentation and final implementation 
-            - Surface quality control: Study, analysis... 
-            - Data collection and analysis. Analysing factory data obtained by SAP with Excel.
-            Data collection during manufacturing.)
+        - Process improvement: Analysis of SAP (Excel) data for improvement in machines and working methods, testing, 
+        analysis of results, documentation and final implementation 
+        - Surface quality control: Study, analysis... 
+        - Data collection and analysis. Analysing factory data obtained by SAP with Excel.
+        Data collection during manufacturing.)
 
 - ### 🔭 My professional interests are focused on: Data Scientist - Data Analyst - Predictive Models
 
