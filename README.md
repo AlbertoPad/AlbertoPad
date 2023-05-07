@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Alberto Padilla</h1>
-<h3 align="center">A passionate about data and forecasting.</h3>
+<h3 align="center">A passionate about data and predictive models.</h3>
 
 - ### 🌱 I am currently studying at Assembler Institute - Masters of Technology. **Data Scientist.**
 
