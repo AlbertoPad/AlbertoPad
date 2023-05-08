@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Alberto Padilla</h1>
 <h3 align="center">A passionate about data and predictive models.</h3>
 
-- ### 🌱 I am currently studying at Assembler Institute - Masters of Technology. **Data Scientist.**
+- ### 🌱 Actually i hac Assembler Institute - Masters of Technology. **Data Scientist.**
 
 - ### 🤔 I have experience in:
     ##### Arcelormittal Basque Country Research Centre (2021). 
@@ -28,6 +28,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoPad&layout=compact)
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=AlbertoPad&count_private=true&show_icons=true&hide=contribs&layout=compact)
+
+* **Some projects I am proud of:**
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlbertoPad&repo=Emotions_Recognition_Generator)](https://github.com/AlbertoPad/Emotions_Recognition_Generator)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
