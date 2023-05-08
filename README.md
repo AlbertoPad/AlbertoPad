@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I am Alberto Padilla</h1>
 <h3 align="center">A passionate about data and predictive models.</h3>
 
-- ### 🌱 Actually i hac Assembler Institute - Masters of Technology. **Data Scientist.**
-
+- ### 🌱 Recent graduate of Assembler Institute - Master of Technology. **Data Scientist.**
+- 
 - ### 🤔 I have experience in:
     ##### Arcelormittal Basque Country Research Centre (2021). 
     ##### Technician in Data Analysis and R&D 
