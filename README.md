@@ -2,7 +2,6 @@
 <h3 align="center">A passionate about data and predictive models.</h3>
 
 - ### 🌱 Recent graduate of Assembler Institute - Master of Technology. **Data Scientist.**
-- 
 - ### 🤔 I have experience in:
     ##### Arcelormittal Basque Country Research Centre (2021). 
     ##### Technician in Data Analysis and R&D 
