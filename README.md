@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I am Alberto Padilla</h1>
+<p align="left"> <img src="https://github.com/AlbertoPad/AlbertoPad/blob/main/images/%E2%80%9CDebo%20recordarles%20que,%20mis%20probabilidades%20de%20%C3%A9xito,%20aumentan%20en%20cada%20nuevo%20intento...%E2%80%9D%20-J.%20F.%20Nash-%20(1).png?raw=true" alt="albertopad" /> </p>
 <h3 align="center">A passionate about data and predictive models.</h3>
 
 - ### 🌱 Recent graduate of Assembler Institute - Master of Technology. **Data Scientist.**
