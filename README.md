@@ -24,16 +24,17 @@
 - ### ⚡ Fun fact **I'm a big lover of bonsai art, as well as, old Rock 'n Roll. I also like dance lindy hop  (music from the 20's, 50's...).**
 
 - ### These are the languages and Stats:
+- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoPad&layout=compact&token=${process.env.PAT_1})
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoPad&layout=compact)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=AlbertoPad&count_private=true&show_icons=true&hide=contribs&layout=compact&token=${process.env.PAT_1})
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=AlbertoPad&count_private=true&show_icons=true&hide=contribs&layout=compact)
 
 * **Some projects I am proud of:**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlbertoPad&repo=Emotions_Recognition_Generator)](https://github.com/AlbertoPad/Emotions_Recognition_Generator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?token=${process.env.PAT_1}&username=AlbertoPad&repo=Emotions_Recognition_Generator)](https://github.com/AlbertoPad/Emotions_Recognition_Generator)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AlbertoPad&repo=Deep_Learning_Project)](https://github.com/AlbertoPad/Deep_Learning_Project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?token=${process.env.PAT_1}&username=AlbertoPad&repo=Deep_Learning_Project)](https://github.com/AlbertoPad/Deep_Learning_Project)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
